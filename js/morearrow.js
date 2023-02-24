@@ -6,7 +6,7 @@ const multiply = (a, b) => a * b;
 const result = multiply(7, 8);
 console.log(result);
 
-const addAll (a, b, c, d, e, f) => a + b + c + d + e;
+const addAll (a, b, c, d, e, ) => a + b + c + d + e;
 //! no parameter arrow function
 const getPie = () => 3.14;
 //! one parameter
