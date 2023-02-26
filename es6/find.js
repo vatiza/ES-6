@@ -8,3 +8,8 @@ const products = [
 ]
 const fives =numbers.find(num => num % 5 === 0)
 console.log(fives)
+
+const friends = ['rakib', 'nahiana', 'mohib','nh','an'];
+const find = friends.filter(num => num.length === 2);
+console.log(find);
+
